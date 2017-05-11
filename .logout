@@ -10,8 +10,8 @@
 
 find . -size +100M | cat >> .gitignore
 git add . > .log
-git commit -m "Commit" -q
-git push -q origin master
+git commit -m "Commit" > .log
+git push origin master > .log
 
 switch ("`tty`")
 case "/dev/tty[pq]*":
