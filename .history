@@ -1,62 +1,48 @@
-#+1494513703
-git init
-#+1494513721
+#+1494518387
+cd .local/share/
+#+1494518390
+cd Trash/
+#+1494518394
+cd files/
+#+1494518536
+ssh-keygen -p
+#+1494518580
+git pull origin master
+#+1494518594
+clear
+#+1494518670
+ls -la
+#+1494518694
+git add -A
+#+1494518742
+git reset
+#+1494518832
 git add -A *
-#+1494513820
-git commit
-#+1494513875
-git commit -m "Create"
-#+1494514044
-git remote add origin git@github.com:willyweiweizhou/school
-#+1494514119
-git push origin master
-#+1494514366
-git remote add origin https://github.com/willyweiweizhou/school.git
-#+1494514448
-git remote add origin https://github.com/willyweiweizhou/school
-#+1494514579
-cd .git/config
-#+1494514587
-cd .gir
-#+1494514595
-cd .git
-#+1494514606
-nano config
-#+1494514700
-cd
-#+1494514990
-ssh-keygen -t rsa -b 4096 -C "willyweiweizhou@gmail.com"
-#+1494515055
-ls -al ~/.ssh
-#+1494515085
-eval "$(ssh-agent -s)"
-#+1494515141
-ssh-add -K ~/.ssh/id_rsa
-#+1494515183
-cat ~/.ssh/id_rsa
-#+1494515461
-ssh -T git@github.com
-#+1494515496
-yes
-#+1494515779
-history
-#+1494515790
-gir remote rm origin
-#+1494515797
-git remote rm origin
-#+1494515832
-git remote add origin git@github.com:willyweiweizhou/school.git
-#+1494515840
-git push -u origin master
-#+1494515994
-cd Downloads/
-#+1494515996
+#+1494518848
+git commit -m "Login Fix"
+#+1494519020
+cd .config/
+#+1494519020
 ls
-#+1494516004
-cd ..
-#+1494516964
-git reset HEAD~
-#+1494517025
-git log
-#+1494517052
+#+1494519025
+cd
+#+1494519059
+nano .gitignore
+#+1494519088
+git add .
+#+1494519112
+git commit "Key Fix"
+#+1494519118
+git commit -m "Key Fix"
+#+1494519140
+git push origin master
+#+1494519447
+cat .logout
+#+1494519464
+nano .login
+#+1494519478
+git pull -q
+#+1494519484
+git pull
+#+1494519491
 exit

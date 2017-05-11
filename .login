@@ -19,4 +19,4 @@ if ( -f ~/.mylogin ) then
 	source ~/.mylogin
 endif
 
-git pull origin master
+git pull -q
