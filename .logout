@@ -9,7 +9,7 @@
 #
 
 find . -size +100M | cat >> .gitignore
-git add .
+git add . > .log
 git commit -m "Commit" -q
 git push -q origin master
 
