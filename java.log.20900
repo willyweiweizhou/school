@@ -1,0 +1,9 @@
+  Operating System: Linux 2.6.32-642.13.1.el6.x86_64 #1 SMP Wed Nov 23 16:03:01 EST 2016 x86_64
+  Processor ID:     x86 Family 6 Model 58 Stepping 9, GenuineIntel
+  Host Name:        p81.ecf.utoronto.ca
+FATAL ERROR in native method: Nativewindow X11 IOError: Display 0x7f824b079e40 (:0.0): Resource temporarily unavailable
+	at sun.awt.X11.XlibWrapper.XEventsQueued(Native Method)
+FATAL ERROR in native method: Nativewindow X11 IOError: Display 0x7f824830acc0 (:0.0): Resource temporarily unavailable
+	at sun.awt.X11.XToolkit.run(Unknown Source)
+	at sun.awt.X11.XToolkit.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
