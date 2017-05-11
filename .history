@@ -44,5 +44,7 @@ nano .login
 git pull -q
 #+1494519484
 git pull
-#+1494519640
+#+1494519734
+nano .logout
+#+1494519978
 exit
