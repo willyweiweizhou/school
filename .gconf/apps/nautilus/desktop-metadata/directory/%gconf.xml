@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="nautilus-icon-view-tighter-layout" mtime="1490895256" type="string">
+		<stringvalue>false</stringvalue>
+	</entry>
+	<entry name="nautilus-window-scroll-position" mtime="1492885874" type="string">
+		<stringvalue>file:///u/d/cheny257/Desktop/ECF_BACKUP_DIRS</stringvalue>
+	</entry>
+	<entry name="nautilus-icon-view-layout-timestamp" mtime="1492806114" type="string">
+		<stringvalue>1492806114</stringvalue>
+	</entry>
+	<entry name="nautilus-icon-view-keep-aligned" mtime="1492806113" type="string">
+		<stringvalue>true</stringvalue>
+	</entry>
+</gconf>

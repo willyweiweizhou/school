@@ -1,0 +1,18 @@
+# The original copy of this file is in "/share/skel/logout".
+# It should be copied into your home directory using the file name ".logout".
+# The ".logout" file is executed only once at the termination of a session,
+# after you have given the logout command.
+#
+# ECF recommends that you do not make any changes to this file.
+# If ECF makes major changes (new hardware, etc), you may be asked to
+# update your ".logout" file from the updated version of "/share/skel/logout".
+#
+switch ("`tty`")
+case "/dev/tty[pq]*":
+	date
+	breaksw
+default:
+	clear
+	date
+	breaksw
+endsw

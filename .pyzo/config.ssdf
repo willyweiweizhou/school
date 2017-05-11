@@ -1,0 +1,152 @@
+# -*- coding: utf-8 -*-
+# This Simple Structured Data Format (SSDF) file was created from Python on Mon Jan 23 23:54:12 2017.
+advanced = dict:
+ autoCompDelay = 200
+ fileExtensionsToLoadFromDir = 'py,pyw,pyx,txt,bat'
+ find_autoHide_timeout = 10
+ homeAndEndWorkOnDisplayedLine = 0
+ shellMaxLines = 10000
+ titleText = '{fileName} ({fullPath}) - Interactive Editor for Python'
+settings = dict:
+ autoCallTip = 1
+ autoComplete = 1
+ autoComplete_acceptKeys = 'Tab'
+ autoComplete_caseSensitive = 0
+ autoComplete_fillups = '\n'
+ autoComplete_keywords = 1
+ autoIndent = 1
+ defaultIndentUsingSpaces = 1
+ defaultIndentWidth = 4
+ defaultLineEndings = 'LF'
+ defaultStyle = 'python'
+ justificationWidth = 70
+ language = 'English (US)'
+ removeTrailingWhitespaceWhenSaving = 0
+view = dict:
+ autoComplete_popupSize = [300, 100]
+ codeFolding = 0
+ doBraceMatch = 1
+ edgeColumn = 80
+ fontname = 'DejaVu Sans Mono'
+ highlightCurrentLine = 1
+ highlightMatchingBracket = 1
+ qtstyle = 'gtk+'
+ showIndentationGuides = 1
+ showLineEndings = 0
+ showStatusbar = 0
+ showWhitespace = 0
+ showWrapSymbols = 0
+ tabWidth = 4
+ wrap = 1
+ zoom = 0
+tools = dict:
+ pyzofilebrowser = dict:
+ pyzologger = dict:
+ pyzointeractivehelp = dict:
+  noNewlines = 1
+ pyzoworkspace = dict:
+  hideTypes = []
+ pyzosourcestructure = dict:
+  level = 3
+  showTypes = ['def', 'cell', 'todo', 'class']
+ pyzofilebrowser2 = dict:
+  expandedDirs = []
+  nameFilter = '!*.pyc'
+  path = '/u/d/cheny257/Documents'
+  searchMatchCase = 0
+  searchRegExp = 0
+  searchSubDirs = 1
+  starredDirs = []
+state = dict:
+ find_autoHide = 1
+ find_matchCase = 0
+ find_regExp = 0
+ find_show = 0
+ find_wholeWord = 0
+ loadedTools = ['pyzofilebrowser', 'pyzosourcestructure', 'pyzoworkspace']
+ newUser = 1
+ windowGeometry = 'AdnQywABAAAAAANxAAAAggAABz8AAALzAAADcwAAAJwAAAc9AAAC7wAAAAAAAA==\n'
+ windowState = 'AAAA/wAAAAD9AAAAAQAAAAEAAAFvAAACO/wCAAAAA/sAAAAMAHMAaABlAGwAbABzAQAAABkAAACG\nAAAAhgD////8AAAApQAAARcAAAEXAP////wBAAAAAvsAAAAeAHAAeQB6AG8AZgBpAGwAZQBiAHIA\nbwB3AHMAZQByAQAAAlwAAAELAAABCwD////7AAAAJgBwAHkAegBvAHMAbwB1AHIAYwBlAHMAdABy\nAHUAYwB0AHUAcgBlAQAAA20AAABeAAAAXgD////7AAAAGgBwAHkAegBvAHcAbwByAGsAcwBwAGEA\nYwBlAQAAAcIAAACSAAAAkgD///8AAAJWAAACOwAAAAQAAAAEAAAACAAAAAj8AAAAAA==\n'
+ editorState2 = list:
+  ['/u/d/cheny257/csc180/labs/lab09/lab09.py', 288, 0]
+  ['/u/d/cheny257/Documents/file.py', 871, 0]
+  ['/u/d/cheny257/Documents/project 3/project 3.py', 959, 24]
+  ['/u/d/cheny257/Documents/project 3/project 3 revised 4.py', 5546, 186]
+  ['/u/d/cheny257/csc180/labs/lab09/lab09.py', 'hist']
+  ['/u/d/cheny257/Documents/file.py', 'hist']
+  ['/u/d/cheny257/Documents/project 3/project 3.py', 'hist']
+  ['/u/d/cheny257/Documents/project 3/project 3 revised 4.py', 'hist']
+shellConfigs2 = list:
+ dict:
+  argv = ''
+  environ = ''
+  exe = '/n/share/copy/csc180f/pyzo2015a/bin/python'
+  gui = 'auto'
+  ipython = 'yes'
+  name = 'Python'
+  projectPath = ''
+  pythonPath = ''
+  scriptFile = ''
+  startDir = ''
+  startupScript = ''
+ dict:
+  argv = ''
+  environ = ''
+  exe = ''
+  gui = 'auto'
+  ipython = 'no'
+  name = 'Shell config 2'
+  projectPath = ''
+  pythonPath = ''
+  scriptFile = ''
+  startDir = ''
+  startupScript = ''
+shortcuts2 = dict:
+ edit__comment = 'Ctrl+R,'
+ edit__copy = 'Ctrl+C,Ctrl+Insert'
+ edit__cut = 'Ctrl+X,Shift+Delete'
+ edit__dedent = 'Shift+Tab,'
+ edit__delete_line = 'Ctrl+D,'
+ edit__find_next = 'Ctrl+G,F3'
+ edit__find_or_replace = 'Ctrl+F,'
+ edit__find_previous = 'Ctrl+Shift+G,Shift+F3'
+ edit__find_selection = 'Ctrl+F3,'
+ edit__find_selection_backward = 'Ctrl+Shift+F3,'
+ edit__indent = 'Tab,'
+ edit__justify_commentdocstring = 'Ctrl+J,'
+ edit__paste = 'Ctrl+V,Shift+Insert'
+ edit__paste_and_select = 'Ctrl+Shift+V'
+ edit__redo = 'Ctrl+Y,'
+ edit__select_all = 'Ctrl+A,'
+ edit__uncomment = 'Ctrl+T,'
+ edit__undo = 'Ctrl+Z,'
+ file__close = 'Ctrl+W,'
+ file__new = 'Ctrl+N,'
+ file__open = 'Ctrl+O,'
+ file__save = 'Ctrl+S,'
+ run__execute_cell = 'Ctrl+Return,Ctrl+Enter'
+ run__execute_cell_and_advance = 'Ctrl+Shift+Return,Ctrl+Shift+Enter'
+ run__execute_file = 'Ctrl+E,F5'
+ run__execute_main_file = 'Ctrl+M,F6'
+ run__execute_selection = 'Alt+Return,F9'
+ run__run_file_as_script = 'Ctrl+Shift+E,Ctrl+F5'
+ run__run_main_file_as_script = 'Ctrl+Shift+M,Ctrl+F6'
+ shell__clear_screen = 'Ctrl+L,'
+ shell__close = 'Alt+K,'
+ shell__create_shell_1_ = 'Ctrl+1,'
+ shell__create_shell_2_ = 'Ctrl+2,'
+ shell__create_shell_3_ = 'Ctrl+3,'
+ shell__create_shell_4_ = 'Ctrl+4,'
+ shell__create_shell_5_ = 'Ctrl+5,'
+ shell__create_shell_6_ = 'Ctrl+6,'
+ shell__create_shell_7_ = 'Ctrl+7,'
+ shell__create_shell_8_ = 'Ctrl+8,'
+ shell__interrupt = 'Ctrl+I,Meta+C'
+ shell__restart = 'Ctrl+K,'
+ shell__terminate = 'Ctrl+Shift+K,'
+ view__select_editor = 'Ctrl+9,F2'
+ view__select_previous_file = 'Ctrl+Tab,'
+ view__select_shell = 'Ctrl+0,F1'
+ view__zooming__zoom_in = 'Ctrl+=,Ctrl++'
+ view__zooming__zoom_out = 'Ctrl+-,'
+ view__zooming__zoom_reset = 'Ctrl+\\,'

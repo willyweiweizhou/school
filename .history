@@ -1,0 +1,62 @@
+#+1494513703
+git init
+#+1494513721
+git add -A *
+#+1494513820
+git commit
+#+1494513875
+git commit -m "Create"
+#+1494514044
+git remote add origin git@github.com:willyweiweizhou/school
+#+1494514119
+git push origin master
+#+1494514366
+git remote add origin https://github.com/willyweiweizhou/school.git
+#+1494514448
+git remote add origin https://github.com/willyweiweizhou/school
+#+1494514579
+cd .git/config
+#+1494514587
+cd .gir
+#+1494514595
+cd .git
+#+1494514606
+nano config
+#+1494514700
+cd
+#+1494514990
+ssh-keygen -t rsa -b 4096 -C "willyweiweizhou@gmail.com"
+#+1494515055
+ls -al ~/.ssh
+#+1494515085
+eval "$(ssh-agent -s)"
+#+1494515141
+ssh-add -K ~/.ssh/id_rsa
+#+1494515183
+cat ~/.ssh/id_rsa
+#+1494515461
+ssh -T git@github.com
+#+1494515496
+yes
+#+1494515779
+history
+#+1494515790
+gir remote rm origin
+#+1494515797
+git remote rm origin
+#+1494515832
+git remote add origin git@github.com:willyweiweizhou/school.git
+#+1494515840
+git push -u origin master
+#+1494515994
+cd Downloads/
+#+1494515996
+ls
+#+1494516004
+cd ..
+#+1494516964
+git reset HEAD~
+#+1494517025
+git log
+#+1494517052
+exit

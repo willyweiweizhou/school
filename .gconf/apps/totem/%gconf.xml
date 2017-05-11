@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="visual" mtime="1479917395" type="string">
+		<stringvalue>GOOM: what a GOOM!</stringvalue>
+	</entry>
+	<entry name="volume" mtime="1479917395" type="int" value="50"/>
+	<entry name="audio_output_type" mtime="1474463092" type="int" value="0"/>
+</gconf>

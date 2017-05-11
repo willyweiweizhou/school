@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="hide_completed_value" mtime="1488814680" type="int" value="1"/>
+	<entry name="hide_completed_units" mtime="1488814680" type="string">
+		<stringvalue>days</stringvalue>
+	</entry>
+	<entry name="hide_completed" mtime="1488814680" type="bool" value="false"/>
+</gconf>

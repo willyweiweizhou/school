@@ -1,0 +1,56 @@
+# GIMP sessionrc
+# 
+# This file takes session-specific info (that is info, you want to keep
+# between two GIMP sessions).  You are not supposed to edit it manually, but
+# of course you can do.  The sessionrc will be entirely rewritten every time
+# you quit GIMP.  If this file isn't found, defaults are used.
+
+(session-info "dock" "dock"
+    (position 1706 209)
+    (size 210 820)
+    (open-on-exit)
+    (aux-info
+        (show-image-menu "true")
+        (follow-active-image "true"))
+    (dock
+        (book
+            (current-page 3)
+            (dockable "gimp-layer-list"
+                (tab-style icon)
+                (preview-size 32))
+            (dockable "gimp-channel-list"
+                (tab-style icon)
+                (preview-size 32))
+            (dockable "gimp-vectors-list"
+                (tab-style icon)
+                (preview-size 32))
+            (dockable "gimp-undo-history"
+                (tab-style icon)))
+        (book
+            (position 418)
+            (current-page 0)
+            (dockable "gimp-brush-grid"
+                (tab-style preview))
+            (dockable "gimp-pattern-grid"
+                (tab-style preview))
+            (dockable "gimp-gradient-list"
+                (tab-style preview)))))
+(session-info "toplevel" "gimp-file-save-dialog"
+    (position 1026 322)
+    (size 780 585))
+(session-info "toolbox" "dock"
+    (position 550 166)
+    (size 170 846)
+    (open-on-exit)
+    (dock
+        (book
+            (current-page 0)
+            (dockable "gimp-tool-options"
+                (tab-style icon)))))
+(session-info "display" "gimp-empty-image-window"
+    (position 913 92)
+    (size 711 534))
+
+(last-tip-shown 2)
+
+# end of sessionrc

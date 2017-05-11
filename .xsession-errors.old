@@ -1,0 +1,56 @@
+GNOME_KEYRING_SOCKET=/tmp/keyring-IpKOGQ/socket
+SSH_AUTH_SOCK=/tmp/keyring-IpKOGQ/socket.ssh
+SELinux Troubleshooter: Applet requires SELinux be enabled to run.
+Cleaned 0 files 8 still live
+
+(process:15812): GLib-WARNING **: goption.c:2132: ignoring no-arg, optional-arg or filename flags (8) on option of type 0
+
+(process:15812): GLib-WARNING **: goption.c:2132: ignoring no-arg, optional-arg or filename flags (8) on option of type 0
+
+(process:15812): GLib-WARNING **: goption.c:2132: ignoring no-arg, optional-arg or filename flags (8) on option of type 0
+
+(polkit-gnome-authentication-agent-1:15797): GLib-GObject-WARNING **: cannot register existing type `_PolkitError'
+
+(polkit-gnome-authentication-agent-1:15797): GLib-CRITICAL **: g_once_init_leave: assertion `initialization_value != 0' failed
+Failed to play sound: File or data not found
+
+** (gnome-panel:15774): WARNING **: panel-applet-frame.c:1288: failed to load applet OAFIID:GNOME_FastUserSwitchApplet:
+(null)
+Initializing nautilus-open-terminal extension
+Initializing nautilus-gdu extension
+
+(process:16605): GLib-CRITICAL **: g_path_get_basename: assertion `file_name != NULL' failed
+
+(process:16673): GLib-CRITICAL **: g_path_get_basename: assertion `file_name != NULL' failed
+1492117840041	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+(gnome-power-manager:15782): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+Window manager warning: CurrentTime used to choose focus window; focus window may not be correct.
+Window manager warning: Got a request to focus the no_focus_window with a timestamp of 0.  This shouldn't happen!
+Shutting down nautilus-gdu extension
+Shutting down nautilus-open-terminal extension
+
+--- Hash table keys for warning below:
+--> Yuxuan  Chen
+--> inode/directory
+--> l38
+--> esc2T0
+--> cheny257
+
+(nautilus:15777): Eel-WARNING **: "unique eel_ref_str" hash table still has 5 elements at quit time (keys above)
+
+(nautilus:15777): Eel-WARNING **: "nautilus-directory.c: directories" hash table still has 3 elements at quit time
+
+(polkit-gnome-authentication-agent-1:15797): polkit-gnome-1-WARNING **: Error enumerating temporary authorizations: Remote Exception invoking org.freedesktop.PolicyKit1.Authority.EnumerateTemporaryAuthorizations() on /org/freedesktop/PolicyKit1/Authority at name org.freedesktop.PolicyKit1: org.freedesktop.PolicyKit1.Error.Failed: Cannot determine session the caller is in
+gnome-settings-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+gdu-notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+gnome-volume-control-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+polkit-gnome-authentication-agent-1: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+evolution-alarm-notify: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+gnome-screensaver: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+applet.py: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+ecfprstatus: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Traceback (most recent call last):
+  File "/usr/local/bin/lpq_cache", line 102, in <module>
+    print >>sys.stdout, data,
+IOError: [Errno 32] Broken pipe

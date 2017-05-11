@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="disable_save_to_disk" mtime="1488814680" type="bool" value="false"/>
+	<entry name="disable_print_setup" mtime="1488814680" type="bool" value="false"/>
+	<entry name="disable_printing" mtime="1488814680" type="bool" value="false"/>
+	<entry name="disable_command_line" mtime="1488814680" type="bool" value="false"/>
+	<entry name="disable_application_handlers" mtime="1488814680" type="bool" value="false"/>
+</gconf>

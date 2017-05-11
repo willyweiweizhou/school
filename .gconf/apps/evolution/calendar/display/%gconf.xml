@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="working_days" mtime="1488814680" type="int" value="62"/>
+	<entry name="day_start_minute" mtime="1488814680" type="int" value="0"/>
+	<entry name="day_start_hour" mtime="1488814680" type="int" value="9"/>
+	<entry name="day_end_minute" mtime="1488814680" type="int" value="0"/>
+	<entry name="day_end_hour" mtime="1488814680" type="int" value="17"/>
+	<entry name="week_start_day" mtime="1488814680" type="int" value="1"/>
+	<entry name="use_system_timezone" mtime="1488814680" type="bool" value="true"/>
+	<entry name="use_24hour_format" mtime="1488814680" type="bool" value="false"/>
+	<entry name="timezone" mtime="1488814680" type="string">
+		<stringvalue>UTC</stringvalue>
+	</entry>
+	<entry name="time_divisions" mtime="1488814680" type="int" value="30"/>
+	<entry name="show_event_end" mtime="1488814680" type="bool" value="true"/>
+	<entry name="marcus_bains_line" mtime="1488814680" type="bool" value="true"/>
+	<entry name="marcus_bains_color_timebar" mtime="1488814680" type="string">
+		<stringvalue>#ff0000</stringvalue>
+	</entry>
+	<entry name="marcus_bains_color_dayview" mtime="1488814680" type="string">
+		<stringvalue>#ff0000</stringvalue>
+	</entry>
+	<entry name="show_week_numbers" mtime="1488814680" type="bool" value="false"/>
+	<entry name="compress_weekend" mtime="1488814680" type="bool" value="true"/>
+	<entry name="selected_calendars" mtime="1486009073" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>1486009073.18040.4@p106.ecf.utoronto.ca</stringvalue>
+		</li>
+	</entry>
+</gconf>

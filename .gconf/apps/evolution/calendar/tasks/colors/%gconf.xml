@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="overdue" mtime="1488814680" type="string">
+		<stringvalue>#ff0000</stringvalue>
+	</entry>
+	<entry name="due_today" mtime="1488814680" type="string">
+		<stringvalue>#1e90ff</stringvalue>
+	</entry>
+</gconf>

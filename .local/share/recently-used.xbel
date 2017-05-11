@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/lab5/code/code/main.c" added="2017-03-11T19:49:24Z" modified="2017-03-27T19:45:36Z" visited="2017-03-11T19:49:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-27T19:45:36Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/lab5/code/code/lab5.c" added="2017-03-11T19:49:30Z" modified="2017-03-27T19:37:03Z" visited="2017-03-11T19:49:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-27T19:37:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/lab5/code/code/lab5.h" added="2017-03-11T20:18:21Z" modified="2017-03-27T19:45:33Z" visited="2017-03-11T20:18:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-27T19:45:33Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/Screenshot-1.png" added="2017-03-16T22:59:30Z" modified="2017-04-06T05:20:03Z" visited="2017-03-16T22:59:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-04-06T04:39:49Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-06T05:20:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/Screenshot-2.png" added="2017-03-17T23:24:50Z" modified="2017-04-06T05:15:01Z" visited="2017-03-17T23:24:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-04-06T04:53:27Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-06T05:15:01Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/Screenshot-3.png" added="2017-03-18T18:47:17Z" modified="2017-04-17T20:40:12Z" visited="2017-03-18T18:47:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-04-17T20:39:23Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-17T20:40:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/Screenshot-4.png" added="2017-03-18T18:50:03Z" modified="2017-04-17T20:40:12Z" visited="2017-03-18T18:50:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-04-17T20:39:37Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-17T20:40:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/Screenshot-7.png" added="2017-03-22T22:16:31Z" modified="2017-03-22T22:16:41Z" visited="2017-03-22T22:16:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-03-22T22:16:31Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-22T22:16:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/Screenshot-8.png" added="2017-03-22T22:19:37Z" modified="2017-03-22T22:20:02Z" visited="2017-03-22T22:19:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-03-22T22:19:37Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-22T22:20:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/Screenshot-9.png" added="2017-03-22T22:42:11Z" modified="2017-03-22T22:42:28Z" visited="2017-03-22T22:42:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-03-22T22:42:11Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-22T22:42:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/Screenshot-10.png" added="2017-03-22T22:43:34Z" modified="2017-03-22T22:43:49Z" visited="2017-03-22T22:43:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-03-22T22:43:34Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-22T22:43:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/Screenshot-11.png" added="2017-03-22T22:50:24Z" modified="2017-03-22T22:51:10Z" visited="2017-03-22T22:50:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-03-22T22:50:24Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-22T22:51:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/Screenshot-12.png" added="2017-03-22T22:52:41Z" modified="2017-03-22T22:52:56Z" visited="2017-03-22T22:52:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-03-22T22:52:41Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-22T22:52:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/Screenshot-13.png" added="2017-03-22T22:54:05Z" modified="2017-03-22T22:54:26Z" visited="2017-03-22T22:54:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-03-22T22:54:05Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-22T22:54:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/Untitleddocument(2).pdf" added="2017-03-22T23:24:49Z" modified="2017-03-22T23:24:49Z" visited="2017-03-22T23:24:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-22T23:24:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_cheny2570/Untitleddocument.pdf" added="2017-03-22T23:25:03Z" modified="2017-03-22T23:25:03Z" visited="2017-03-22T23:25:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-22T23:25:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/Untitleddocument(3).pdf" added="2017-03-23T02:19:32Z" modified="2017-03-23T02:19:32Z" visited="2017-03-23T02:19:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-23T02:19:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/Futureplans.pdf" added="2017-03-23T02:32:36Z" modified="2017-03-23T02:32:36Z" visited="2017-03-23T02:32:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-23T02:32:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/Requirementsmodel3.0.pdf" added="2017-03-23T02:46:20Z" modified="2017-03-23T02:46:20Z" visited="2017-03-23T02:46:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-23T02:46:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/code(3).zip" added="2017-03-23T23:40:58Z" modified="2017-03-23T23:41:44Z" visited="2017-03-23T23:40:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-23T23:40:58Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-03-23T23:41:44Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/expOutput(4).zip" added="2017-03-23T23:41:03Z" modified="2017-03-23T23:41:03Z" visited="2017-03-23T23:41:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-23T23:41:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/lab7/code(3).zip" added="2017-03-23T23:42:42Z" modified="2017-03-23T23:42:42Z" visited="2017-03-23T23:42:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-23T23:42:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/lab7/code/code/lab7.c" added="2017-03-23T23:43:15Z" modified="2017-03-24T02:16:34Z" visited="2017-03-23T23:43:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %F&apos;" modified="2017-03-23T23:43:15Z" count="1"/>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-24T02:16:34Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/lab7/code/code/stacks.c" added="2017-03-23T23:43:31Z" modified="2017-03-24T02:08:10Z" visited="2017-03-23T23:43:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-24T02:08:10Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/lab7/code/code/main.c" added="2017-03-23T23:43:49Z" modified="2017-03-23T23:43:49Z" visited="2017-03-23T23:43:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-23T23:43:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/lab7/code/code/lab7.h" added="2017-03-23T23:43:52Z" modified="2017-03-23T23:43:52Z" visited="2017-03-23T23:43:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-23T23:43:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/lab7/expOutput/p1.txt" added="2017-03-24T00:08:49Z" modified="2017-03-24T02:18:09Z" visited="2017-03-24T00:08:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-24T02:18:09Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/lab7/expOutput/p2.txt" added="2017-03-24T01:46:28Z" modified="2017-03-24T02:18:23Z" visited="2017-03-24T01:46:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-24T02:18:23Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-03-24T01:55:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/code(3)(1).zip" added="2017-03-24T02:08:56Z" modified="2017-03-24T02:08:58Z" visited="2017-03-24T02:08:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-24T02:08:56Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-03-24T02:08:58Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/lab7/code(3)/code/main.c" added="2017-03-24T02:12:02Z" modified="2017-03-24T02:12:02Z" visited="2017-03-24T02:12:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-24T02:12:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/lab7/code(3)/code/stacks.c" added="2017-03-24T02:12:12Z" modified="2017-03-24T02:12:12Z" visited="2017-03-24T02:12:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-24T02:12:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/lab7/code(3)/code/lab7.h" added="2017-03-24T02:12:17Z" modified="2017-03-24T02:12:17Z" visited="2017-03-24T02:12:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-24T02:12:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/lab7/code(3)/code/lab7.c" added="2017-03-24T02:12:20Z" modified="2017-03-24T02:13:46Z" visited="2017-03-24T02:12:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-24T02:13:46Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/code/code/lab7.c" added="2017-03-24T02:12:41Z" modified="2017-03-24T02:13:30Z" visited="2017-03-24T02:12:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %F&apos;" modified="2017-03-24T02:12:41Z" count="1"/>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-24T02:13:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/assignmentMaterials(1).zip" added="2017-03-25T20:33:38Z" modified="2017-03-25T21:34:29Z" visited="2017-03-25T20:33:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-25T20:33:38Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-03-25T21:34:29Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/assignment3/assignment3.c" added="2017-03-25T20:39:40Z" modified="2017-03-26T18:08:12Z" visited="2017-03-25T20:39:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nedit %f&apos;" modified="2017-03-25T20:39:40Z" count="1"/>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-26T18:08:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/assignment3/assignment3.h" added="2017-03-25T20:40:41Z" modified="2017-03-26T18:08:21Z" visited="2017-03-25T20:40:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-26T18:08:21Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/assignment3/queue.h" added="2017-03-25T20:40:52Z" modified="2017-03-26T18:08:37Z" visited="2017-03-25T20:40:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-26T18:08:37Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/assignment3/queue.c" added="2017-03-25T20:40:59Z" modified="2017-03-26T18:08:31Z" visited="2017-03-25T20:40:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-26T18:08:31Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/assignment3/main.c" added="2017-03-25T20:41:02Z" modified="2017-03-26T18:08:26Z" visited="2017-03-25T20:41:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-26T18:08:26Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/try" added="2017-03-25T20:48:52Z" modified="2017-03-25T20:48:52Z" visited="2017-03-25T20:48:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-25T20:48:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/try.c" added="2017-03-25T20:49:03Z" modified="2017-03-25T20:49:03Z" visited="2017-03-25T20:49:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-25T20:49:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/assignmentMaterials(1)(1).zip" added="2017-03-25T21:34:25Z" modified="2017-03-25T21:34:25Z" visited="2017-03-25T21:34:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-25T21:34:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/assignment3" added="2017-03-25T21:34:47Z" modified="2017-03-25T21:34:47Z" visited="2017-03-25T21:34:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller %u&apos;" modified="2017-03-25T21:34:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/assignment3/expOutput/Part1.txt" added="2017-03-25T21:34:56Z" modified="2017-03-26T19:13:30Z" visited="2017-03-25T21:34:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-26T19:13:30Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/assignment3/expOutput/Part2.txt" added="2017-03-26T00:10:55Z" modified="2017-03-26T19:51:23Z" visited="2017-03-26T00:10:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-26T19:13:35Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-03-26T19:51:23Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/assignment3/code/assignment3.c" added="2017-03-26T19:14:14Z" modified="2017-03-26T19:14:14Z" visited="2017-03-26T19:14:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-26T19:14:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/assignment3/code/main.c" added="2017-03-26T19:14:17Z" modified="2017-03-26T19:14:17Z" visited="2017-03-26T19:14:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-26T19:14:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc%20190.png" added="2017-03-27T19:36:13Z" modified="2017-03-27T19:42:39Z" visited="2017-03-27T19:36:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-03-27T19:36:13Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-03-27T19:42:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/lab5/code(2).zip" added="2017-03-27T19:36:54Z" modified="2017-03-27T19:36:54Z" visited="2017-03-27T19:36:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-03-27T19:36:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc%20lab%205%20grade.png" added="2017-03-27T19:39:59Z" modified="2017-03-27T19:39:59Z" visited="2017-03-27T19:39:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-03-27T19:39:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/lab8" added="2017-04-04T19:11:23Z" modified="2017-04-04T19:11:23Z" visited="2017-04-04T19:11:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-04-04T19:11:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/lab8.c" added="2017-04-04T19:12:36Z" modified="2017-04-04T19:12:36Z" visited="2017-04-04T19:12:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2017-04-04T19:12:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/graphs.pdf" added="2017-04-04T19:20:16Z" modified="2017-04-04T19:20:55Z" visited="2017-04-04T19:20:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-04T19:20:16Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;acroread &apos;" modified="2017-04-04T19:20:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/load_faces.m" added="2017-04-05T21:11:11Z" modified="2017-04-05T21:11:11Z" visited="2017-04-05T21:11:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-objcsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-05T21:11:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/rawdata.zip" added="2017-04-05T21:11:39Z" modified="2017-04-05T21:11:39Z" visited="2017-04-05T21:11:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-05T21:11:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/MAT185/load_faces.m" added="2017-04-05T21:12:58Z" modified="2017-04-05T21:12:58Z" visited="2017-04-05T21:12:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-objcsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %F&apos;" modified="2017-04-05T21:12:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/MAT185_assign_3_p1.m" added="2017-04-05T21:24:16Z" modified="2017-04-05T21:24:16Z" visited="2017-04-05T21:24:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-objcsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-05T21:24:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/MAT185_assign_3_p1(1).m" added="2017-04-05T21:25:14Z" modified="2017-04-05T21:25:14Z" visited="2017-04-05T21:25:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-objcsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-05T21:25:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/Part2.m" added="2017-04-05T23:16:13Z" modified="2017-04-05T23:16:15Z" visited="2017-04-05T23:16:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-matlab"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-05T23:16:13Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-04-05T23:16:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/Part2(1).m" added="2017-04-06T01:05:30Z" modified="2017-04-06T01:05:33Z" visited="2017-04-06T01:05:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-matlab"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-06T01:05:30Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-04-06T01:05:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/part2d.m" added="2017-04-06T03:04:02Z" modified="2017-04-06T03:04:02Z" visited="2017-04-06T03:04:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-objcsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-06T03:04:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/17793395_2272567816302013_1282774014_n.jpg" added="2017-04-06T03:28:57Z" modified="2017-04-06T03:30:46Z" visited="2017-04-06T03:28:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-06T03:28:57Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.6 %u&apos;" modified="2017-04-06T03:30:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/sherry.pmg" added="2017-04-06T03:42:00Z" modified="2017-04-06T03:42:00Z" visited="2017-04-06T03:42:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.6 %u&apos;" modified="2017-04-06T03:42:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/sherry" added="2017-04-06T03:42:39Z" modified="2017-04-06T03:42:39Z" visited="2017-04-06T03:42:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.6 %u&apos;" modified="2017-04-06T03:42:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/sherry.xcf" added="2017-04-06T03:42:40Z" modified="2017-04-06T03:42:40Z" visited="2017-04-06T03:42:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/xcf"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.6 %u&apos;" modified="2017-04-06T03:42:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/sherry.pgm" added="2017-04-06T03:42:59Z" modified="2017-04-06T04:03:49Z" visited="2017-04-06T03:42:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/x-portable-graymap"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.6 %u&apos;" modified="2017-04-06T04:03:49Z" count="9"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2017-04-06T03:45:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/christophe.png" added="2017-04-06T04:37:09Z" modified="2017-04-06T05:17:23Z" visited="2017-04-06T04:37:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-04-06T04:37:09Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-06T05:17:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/Screenshot.png" added="2017-04-06T04:37:47Z" modified="2017-04-06T05:18:31Z" visited="2017-04-06T04:37:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-04-06T04:37:47Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-06T05:18:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Documents/matlab" added="2017-04-06T04:57:32Z" modified="2017-04-06T04:57:32Z" visited="2017-04-06T04:57:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 4.3" exec="&apos;soffice %u&apos;" modified="2017-04-06T04:57:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/MAT185/part1.m" added="2017-04-06T05:07:12Z" modified="2017-04-06T05:19:57Z" visited="2017-04-06T05:07:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-objcsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-06T05:19:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/MAT185/a_matrix.m" added="2017-04-06T05:07:15Z" modified="2017-04-06T05:19:54Z" visited="2017-04-06T05:07:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-objcsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-06T05:19:54Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/MAT185/part2_c.m" added="2017-04-06T05:08:41Z" modified="2017-04-06T05:18:47Z" visited="2017-04-06T05:08:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-objcsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-06T05:18:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/MAT185/part2_d.m" added="2017-04-06T05:09:19Z" modified="2017-04-06T05:17:11Z" visited="2017-04-06T05:09:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-objcsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-06T05:17:11Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/MAT185/part2_e.m" added="2017-04-06T05:11:40Z" modified="2017-04-06T05:14:53Z" visited="2017-04-06T05:11:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-objcsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-06T05:14:53Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/part1.m" added="2017-04-06T05:12:13Z" modified="2017-04-06T05:12:13Z" visited="2017-04-06T05:12:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-objcsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-06T05:12:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/ESC102%2020171%20Assignment%20--%20Showcase%20IAT.pdf" added="2017-04-10T21:29:15Z" modified="2017-04-10T21:29:15Z" visited="2017-04-10T21:29:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-10T21:29:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/new%20file" added="2017-04-13T21:25:07Z" modified="2017-04-19T21:10:08Z" visited="2017-04-13T21:25:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-04-19T21:10:08Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190%20assignment3.png" added="2017-04-17T20:21:48Z" modified="2017-04-17T20:30:58Z" visited="2017-04-17T20:21:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-04-17T20:21:48Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-17T20:30:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/assignment%203%20compiled.png" added="2017-04-17T20:24:18Z" modified="2017-04-17T20:31:33Z" visited="2017-04-17T20:24:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-04-17T20:24:18Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-17T20:31:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/assignment3/code/run" added="2017-04-17T20:32:40Z" modified="2017-04-17T20:32:40Z" visited="2017-04-17T20:32:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-17T20:32:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/assignment3/assignment3(code).zip" added="2017-04-17T20:36:49Z" modified="2017-04-17T20:36:49Z" visited="2017-04-17T20:36:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-17T20:36:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/assignment3.c.png" added="2017-04-17T20:38:10Z" modified="2017-04-17T20:40:12Z" visited="2017-04-17T20:38:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-04-17T20:38:10Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-17T20:40:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/assignment3/code/assignment3.h" added="2017-04-17T20:38:15Z" modified="2017-04-17T20:38:15Z" visited="2017-04-17T20:38:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %F&apos;" modified="2017-04-17T20:38:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/ass3h.png" added="2017-04-17T20:39:03Z" modified="2017-04-17T20:40:12Z" visited="2017-04-17T20:39:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-04-17T20:39:03Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-17T20:40:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/assignment3/code_2/main.c" added="2017-04-19T20:46:18Z" modified="2017-04-19T20:58:25Z" visited="2017-04-19T20:46:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %F&apos;" modified="2017-04-19T20:58:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/assignmentMaterials(1)(2).zip" added="2017-04-19T20:48:12Z" modified="2017-04-19T20:48:15Z" visited="2017-04-19T20:48:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-19T20:48:12Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-04-19T20:48:15Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Desktop/csc190/assignment3/code_2/assignment3.h" added="2017-04-19T20:58:03Z" modified="2017-04-19T20:58:03Z" visited="2017-04-19T20:58:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %F&apos;" modified="2017-04-19T20:58:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Documents/blank%20paper" added="2017-04-19T21:11:38Z" modified="2017-04-19T21:11:38Z" visited="2017-04-19T21:11:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 4.3" exec="&apos;soffice %u&apos;" modified="2017-04-19T21:11:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Documents/blank%20paper.odt" added="2017-04-19T21:11:39Z" modified="2017-04-19T21:11:39Z" visited="2017-04-19T21:11:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 4.3" exec="&apos;soffice %u&apos;" modified="2017-04-19T21:11:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/ECE159S_2015_ELECTRIC%20CIRCUIT%20FUNDAMENTALS_E.PDF" added="2017-04-21T20:24:04Z" modified="2017-04-21T20:24:04Z" visited="2017-04-21T20:24:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-21T20:24:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/MAT185S_2016_LINEAR%20ALGEBRA.PDF" added="2017-04-21T20:26:32Z" modified="2017-04-21T20:26:32Z" visited="2017-04-21T20:26:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-21T20:26:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///u/d/cheny257/Downloads/MAT185S_2014_LINEAR%20ALGEBRA.PDF" added="2017-04-21T20:36:54Z" modified="2017-04-21T20:37:32Z" visited="2017-04-21T20:36:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-04-21T20:36:54Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;acroread &apos;" modified="2017-04-21T20:37:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

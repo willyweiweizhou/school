@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="use_custom" mtime="1488814680" type="bool" value="false"/>
+	<entry name="variable" mtime="1488814680" type="string">
+		<stringvalue>Sans 12</stringvalue>
+	</entry>
+	<entry name="monospace" mtime="1488814680" type="string">
+		<stringvalue>Monospace 12</stringvalue>
+	</entry>
+</gconf>

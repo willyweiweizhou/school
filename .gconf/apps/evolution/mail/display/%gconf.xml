@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="side_bar_search" mtime="1488814680" type="bool" value="true"/>
+	<entry name="sender_photo" mtime="1488814680" type="bool" value="false"/>
+	<entry name="animated_images" mtime="1488814680" type="bool" value="false"/>
+	<entry name="safe_list" mtime="1488814680" type="bool" value="false"/>
+	<entry name="show_real_date" mtime="1488814680" type="bool" value="true"/>
+	<entry name="photo_local" mtime="1488814680" type="bool" value="true"/>
+	<entry name="message_text_part_limit" mtime="1488814680" type="int" value="4096"/>
+	<entry name="mark_seen_timeout" mtime="1488814680" type="int" value="1500"/>
+	<entry name="mark_seen" mtime="1488814680" type="bool" value="true"/>
+	<entry name="mark_citations" mtime="1488814680" type="bool" value="true"/>
+	<entry name="global_view_setting" mtime="1488814680" type="bool" value="false"/>
+	<entry name="magic_spacebar" mtime="1488814680" type="bool" value="true"/>
+	<entry name="load_http_images" mtime="1488814680" type="int" value="0"/>
+	<entry name="force_message_limit" mtime="1488814680" type="bool" value="true"/>
+	<entry name="enable_vfolders" mtime="1488814680" type="bool" value="true"/>
+	<entry name="citation_colour" mtime="1488814680" type="string">
+		<stringvalue>#737373</stringvalue>
+	</entry>
+	<entry name="charset" mtime="1488814680" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+	<entry name="address_count" mtime="1488814680" type="int" value="5"/>
+	<entry name="address_compress" mtime="1488814680" type="bool" value="true"/>
+</gconf>

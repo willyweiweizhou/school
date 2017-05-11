@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<history>
+<session>
+<command time_stamp="159f294042d">%-- 01/30/2017 10:31:44 PM --%</command>
+<command error="true" execution_time="41">function sol = electricity_solver(R1,R2,R3,R4,V0,s,e)</command>
+<command error="true" execution_time="29" repeat="2">electricity_solver</command>
+<command error="true" execution_time="307">electricity_solver(2,4,3,1,20,0.1, e)</command>
+<command error="true" execution_time="22" repeat="2">electricity_solver(2,4,3,1,20,0.1,1)</command>
+</session>
+<session>
+<command time_stamp="159f6382f8b">%-- 01/31/2017 03:29:54 PM --%</command>
+</session>
+<session>
+<command time_stamp="159f64cb489">%-- 01/31/2017 03:52:19 PM --%</command>
+<command error="true" execution_time="232">electricity_solver(2,4,3,1,20,0.1, [1,2,3,4,5])</command>
+<command error="true" execution_time="56">electricity_solver</command>
+<command execution_time="221">electricity_solver(2,4,3,1,20,0.1,[1,2,3,4,5])</command>
+<command execution_time="20">electricity_solver(2,4,3,1,20,0.1,[1,-1,0,1,-1])</command>
+</session>
+<session>
+<command time_stamp="159fc0ead33">%-- 02/01/2017 06:42:17 PM --%</command>
+<command error="true" execution_time="281">matvect_fast([1,2,3], [2,3,4],[0,1,2])</command>
+<command error="true" execution_time="143">matvect_fast</command>
+<command error="true" execution_time="14">matvect_fast([1,2,3], [2,3,4],[0,1,2])</command>
+<command error="true" execution_time="195">matvect_fast([1,2;3,4],[2,3;5,6],[1,2])</command>
+<command error="true" execution_time="109">matvect_fast</command>
+<command error="true" execution_time="19">matvect_fast([1,2,3], [2,3,4],[0,1,2])</command>
+<command error="true" execution_time="13">matvect_fast([1,2;3,4],[2,3;5,6],[1,2])</command>
+<command error="true" execution_time="123">electricity_solver</command>
+<command execution_time="20">electricity_solver(2,4,3,1,20,0.1,[-1,1,0,-1,1])</command>
+<command execution_time="7">A = [1,2;2,3];</command>
+<command execution_time="18">B = [2,4;5,6];</command>
+<command execution_time="7">x = [1,2,3,4];</command>
+<command execution_time="25">matvect_fast(A,B,x)</command>
+<command execution_time="20" repeat="2">kronecker(A,B,x)</command>
+<command error="true" execution_time="110">kronecker</command>
+<command execution_time="15">kronecker(A,B,x)</command>
+<command error="true" execution_time="32" repeat="4">tictok</command>
+</session>
+<session>
+<command time_stamp="159fc5b488b">%-- 02/01/2017 08:05:58 PM --%</command>
+<command execution_time="459" repeat="8">tictok</command>
+<command execution_time="19">A = [1,2;3,4]</command>
+<command execution_time="20">B = [2,3;4,5]</command>
+<command execution_time="19">d = [1,2]</command>
+<command error="true" execution_time="36" repeat="2">linsyst_fast(A,B,d)</command>
+<command execution_time="11">d = [1,2,3,4]</command>
+<command execution_time="25">linsyst_fast(A,B,d)</command>
+<command error="true" execution_time="101">linsyst_fast</command>
+<command execution_time="25" repeat="3">linsyst_fast(A,B,d)</command>
+<command error="true" execution_time="52" repeat="14">main</command>
+<command error="true" execution_time="96">ever your Matlab run out of memory for</command>
+<command error="true" execution_time="26">ver your Matlab run out of memory for</command>
+<command error="true" execution_time="27">main</command>
+<command error="true" execution_time="94">linsyst_fast</command>
+<command error="true" execution_time="24" repeat="4">main</command>
+<command error="true" execution_time="97">linsyst_fast</command>
+<command error="true" execution_time="136">linsyst_fact(A,B,x)</command>
+<command error="true" execution_time="36">linsyst_fast(A,B,x)</command>
+<command execution_time="25">linsyst_fast(A,B,d)</command>
+<command execution_time="16">d</command>
+<command execution_time="22">linsyst_fast(A,B,d)</command>
+<command error="true" execution_time="30" repeat="2">main</command>
+<command execution_time="18">A</command>
+<command execution_time="10">B</command>
+<command error="true" execution_time="28">kronecker(A,B,x)</command>
+<command execution_time="56">x</command>
+<command execution_time="17">f = ones(4)</command>
+<command execution_time="19">ones(4,1)</command>
+<command execution_time="19">f = ones(4,1)</command>
+<command execution_time="13">kronecker(A,B,f)</command>
+<command error="true" execution_time="10">https://www.mathworks.com/matlabcentral/answers/3234-to-reshape-the-number-</command>
+<command execution_time="16">kronecker(A,B,f)</command>
+<command execution_time="20">f</command>
+<command execution_time="21">linsyst_fast(A,B,f)</command>
+<command execution_time="27">linsyst_fast(A,B,d)</command>
+<command error="true" execution_time="41" repeat="9">main</command>
+<command error="true" execution_time="26">kronecker(A,B,x)</command>
+<command execution_time="180" repeat="6">main</command>
+</session>
+<session>
+<command time_stamp="159fd05b292">%-- 02/01/2017 11:12:06 PM --%</command>
+<command execution_time="59" repeat="2">main</command>
+</session>
+<session>
+<command time_stamp="15a8c54142e">%-- 03/01/2017 07:03:25 PM --%</command>
+<command batch="1">for eps = 10:95;</command>
+<command batch="1">for eps = 10:95;</command>
+<command batch="1">assignment2</command>
+<command batch="1">assignment2</command>
+<command batch="1">assignment2</command>
+<command batch="1">assignment2</command>
+<command batch="1">assignment2</command>
+<command batch="1">assignment2</command>
+<command batch="1">assignment2</command>
+<command batch="1">assignment2</command>
+<command batch="1">assignment2</command>
+<command batch="1">assignment2</command>
+<command batch="1">clear</command>
+<command batch="1">assignment2</command>
+<command batch="1">untitled2</command>
+<command batch="1">untitled2</command>
+<command batch="1">untitled2</command>
+<command batch="1">gg</command>
+</session>
+<session>
+<command time_stamp="15a8c61c392">%-- 03/01/2017 07:18:22 PM --%</command>
+<command error="true" execution_time="40" repeat="6">assignment2</command>
+<command execution_time="19">sol</command>
+<command execution_time="23">A</command>
+<command execution_time="66" repeat="5">assignment2</command>
+</session>
+<session>
+<command time_stamp="15a8d806851">%-- 03/02/2017 12:31:27 AM --%</command>
+<command execution_time="2954">assignment2</command>
+</session>
+<session>
+<command time_stamp="15ae1da87bb">%-- 03/18/2017 10:38:00 AM --%</command>
+</session>
+<session>
+<command time_stamp="15b3ff6dcac">%-- 04/05/2017 05:13:15 PM --%</command>
+</session>
+<session>
+<command time_stamp="15b3ffeb96e">%-- 04/05/2017 05:21:50 PM --%</command>
+<command execution_time="400" repeat="2">MAT185_assign_3_p1</command>
+<command error="true" execution_time="805">load_faces</command>
+</session>
+<session>
+<command time_stamp="15b401dbf59">%-- 04/05/2017 05:55:43 PM --%</command>
+</session>
+<session>
+<command time_stamp="15b401f759d">%-- 04/05/2017 05:57:35 PM --%</command>
+<command error="true" execution_time="31327" repeat="2">load_faces</command>
+<command execution_time="2059" repeat="2">MAT185_assign_3_p1</command>
+<command execution_time="19">a_matrix</command>
+<command execution_time="368" repeat="3">MAT185_assign_3_p1</command>
+<command execution_time="9263" repeat="2">load_faces</command>
+<command execution_time="425">MAT185_assign_3_p1</command>
+<command execution_time="8618" repeat="3">load_faces</command>
+<command execution_time="407" repeat="2">MAT185_assign_3_p1</command>
+<command execution_time="2476" repeat="23">load_faces</command>
+</session>
+<session>
+<command time_stamp="15b40c7dea9">%-- 04/05/2017 09:01:32 PM --%</command>
+<command execution_time="2585" repeat="20">load_faces</command>
+<command execution_time="15942">test</command>
+<command execution_time="509">MAT185_assign_3_p1</command>
+<command error="true" execution_time="2225" repeat="8">load_faces</command>
+<command execution_time="14030">test</command>
+<command error="true" execution_time="16" repeat="26">load_faces</command>
+<command execution_time="773">help else</command>
+<command execution_time="8579" repeat="14">load_faces</command>
+<command error="true" execution_time="14763" repeat="3">test</command>
+<command batch="2">load_faces</command>
+<command batch="2" execution_time="29552">load_faces</command>
+<command execution_time="14037" repeat="11">load_faces</command>
+<command execution_time="479">MAT185_assign_3_p1</command>
+<command execution_time="14013" repeat="14">load_faces</command>
+<command execution_time="947" repeat="6">MAT185_assign_3_p1</command>
+<command execution_time="14092" repeat="4">load_faces</command>
+<command execution_time="942" repeat="4">MAT185_assign_3_p1</command>
+<command execution_time="8941" repeat="6">part2_e</command>
+<command execution_time="14121">part2_d</command>
+<command execution_time="1000" repeat="2">MAT185_assign_3_p1</command>
+<command error="true" execution_time="190">part1</command>
+</session>
+</history>

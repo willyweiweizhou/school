@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="checkdefault" mtime="1488814680" type="bool" value="true"/>
+	<entry name="empty_subject" mtime="1488814680" type="bool" value="true"/>
+	<entry name="list_reply_to" mtime="1488814680" type="bool" value="true"/>
+	<entry name="reply_many_recips" mtime="1488814680" type="bool" value="true"/>
+	<entry name="private_list_reply" mtime="1488814680" type="bool" value="true"/>
+	<entry name="only_bcc" mtime="1488814680" type="bool" value="true"/>
+	<entry name="delete_in_vfolder" mtime="1488814680" type="bool" value="false"/>
+	<entry name="unwanted_html" mtime="1488814680" type="bool" value="true"/>
+	<entry name="expunge" mtime="1488814680" type="bool" value="true"/>
+</gconf>
