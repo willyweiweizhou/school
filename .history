@@ -22,8 +22,6 @@ git add -A *
 git commit -m "Login Fix"
 #+1494519020
 cd .config/
-#+1494519020
-ls
 #+1494519025
 cd
 #+1494519059
@@ -36,8 +34,6 @@ git commit "Key Fix"
 git commit -m "Key Fix"
 #+1494519140
 git push origin master
-#+1494519447
-cat .logout
 #+1494519464
 nano .login
 #+1494519478
@@ -48,5 +44,19 @@ git pull
 nano .log
 #+1494520191
 nano .logout
-#+1494520214
+#+1494520244
+cat .logout
+#+1494520301
+git add . > log
+#+1494520305
+ls
+#+1494520308
+rm log
+#+1494520323
+git commit -m "Commit" > .log
+#+1494520332
+cat .log
+#+1494520340
+git push origin master > .log
+#+1494520350
 exit
